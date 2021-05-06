@@ -1,0 +1,26 @@
+{
+  "name": "fetcher",
+  "version": "1.0.0",
+  "description": "using node will grab a url and print it in new file",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvogrinetz/page-fetcher.git"
+  },
+  "keywords": [
+    "fether"
+  ],
+  "author": "Cecil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvogrinetz/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/cvogrinetz/page-fetcher#readme",
+  "dependencies": {
+    "fs": "*",
+    "request": "^2.88.2"
+  }
+}
